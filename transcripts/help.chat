@@ -1,0 +1,16 @@
+user=Robin
+bot=PokeBot
+
+user: help
+bot: [Suggestions = I want to know about a pokemon | I want to know about a pokemon type ]
+
+user: I want to know about a pokemon
+bot: You can enter the pokemon's name
+
+user: mewtwo
+bot: [Herocard
+        title = Mewtwo
+        subtitle = Psychic
+        images = https://img.pokemondb.net/artwork/mewtwo.jpg
+        text = Mewtwo is a Psychic type Pokémon introduced in Generation 1.
+        buttons = Learn More]

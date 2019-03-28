@@ -1,0 +1,175 @@
+[
+  {
+    "conversation": {
+      "id": "nD5vTUcLnyMV+ommixMy0tvbevQ="
+    },
+    "id": "1",
+    "timestamp": "2019-03-26T20:24:41.100Z",
+    "type": "conversationUpdate",
+    "channelId": "chatdown",
+    "membersAdded": [
+      {
+        "id": "1YCmIoOuPX9lCEMFw43OGZSOPx4=",
+        "name": "PokeBot",
+        "role": "bot"
+      }
+    ],
+    "membersRemoved": []
+  },
+  {
+    "conversation": {
+      "id": "nD5vTUcLnyMV+ommixMy0tvbevQ="
+    },
+    "id": "2",
+    "recipient": {
+      "id": "1YCmIoOuPX9lCEMFw43OGZSOPx4=",
+      "name": "PokeBot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "ihJzYj3N/xvCSK2LmNLIQrb7jiQ=",
+      "name": "Robin",
+      "role": "user"
+    },
+    "text": "help",
+    "timestamp": "2019-03-26T20:24:43.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "nD5vTUcLnyMV+ommixMy0tvbevQ="
+    },
+    "id": "3",
+    "recipient": {
+      "id": "ihJzYj3N/xvCSK2LmNLIQrb7jiQ=",
+      "name": "Robin",
+      "role": "user"
+    },
+    "from": {
+      "id": "1YCmIoOuPX9lCEMFw43OGZSOPx4=",
+      "name": "PokeBot",
+      "role": "bot"
+    },
+    "text": "",
+    "timestamp": "2019-03-26T20:24:45.100Z",
+    "type": "message",
+    "channelId": "chatdown",
+    "suggestedActions": {
+      "actions": [
+        {
+          "title": "I want to know about a pokemon",
+          "type": "imBack",
+          "value": "I want to know about a pokemon"
+        },
+        {
+          "title": "I want to know about a pokemon type",
+          "type": "imBack",
+          "value": "I want to know about a pokemon type"
+        }
+      ]
+    }
+  },
+  {
+    "conversation": {
+      "id": "nD5vTUcLnyMV+ommixMy0tvbevQ="
+    },
+    "id": "4",
+    "recipient": {
+      "id": "1YCmIoOuPX9lCEMFw43OGZSOPx4=",
+      "name": "PokeBot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "ihJzYj3N/xvCSK2LmNLIQrb7jiQ=",
+      "name": "Robin",
+      "role": "user"
+    },
+    "text": "I want to know about a pokemon",
+    "timestamp": "2019-03-26T20:24:47.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "nD5vTUcLnyMV+ommixMy0tvbevQ="
+    },
+    "id": "5",
+    "recipient": {
+      "id": "ihJzYj3N/xvCSK2LmNLIQrb7jiQ=",
+      "name": "Robin",
+      "role": "user"
+    },
+    "from": {
+      "id": "1YCmIoOuPX9lCEMFw43OGZSOPx4=",
+      "name": "PokeBot",
+      "role": "bot"
+    },
+    "text": "You can enter the pokemon's name",
+    "timestamp": "2019-03-26T20:24:49.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "nD5vTUcLnyMV+ommixMy0tvbevQ="
+    },
+    "id": "6",
+    "recipient": {
+      "id": "1YCmIoOuPX9lCEMFw43OGZSOPx4=",
+      "name": "PokeBot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "ihJzYj3N/xvCSK2LmNLIQrb7jiQ=",
+      "name": "Robin",
+      "role": "user"
+    },
+    "text": "mewtwo",
+    "timestamp": "2019-03-26T20:24:51.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "attachments": [
+      {
+        "contentType": "application/vnd.microsoft.card.hero",
+        "content": {
+          "buttons": [
+            {
+              "title": "Learn More",
+              "type": "imBack",
+              "value": "Learn More"
+            }
+          ],
+          "title": "Mewtwo",
+          "subtitle": "Psychic",
+          "images": [
+            {
+              "url": "https://img.pokemondb.net/artwork/mewtwo.jpg"
+            }
+          ],
+          "text": "Mewtwo is a Psychic type PokÃ©mon introduced in Generation 1."
+        }
+      }
+    ],
+    "conversation": {
+      "id": "nD5vTUcLnyMV+ommixMy0tvbevQ="
+    },
+    "id": "7",
+    "recipient": {
+      "id": "ihJzYj3N/xvCSK2LmNLIQrb7jiQ=",
+      "name": "Robin",
+      "role": "user"
+    },
+    "from": {
+      "id": "1YCmIoOuPX9lCEMFw43OGZSOPx4=",
+      "name": "PokeBot",
+      "role": "bot"
+    },
+    "text": "",
+    "timestamp": "2019-03-26T20:24:53.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  }
+]

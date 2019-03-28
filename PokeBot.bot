@@ -1,0 +1,35 @@
+{
+    "name": "PokeBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "PokeBot",
+            "endpoint": "http://localhost:3978/api/pokemon",
+            "appId": "",
+            "appPassword": "",
+            "id": "50"
+        },
+        {
+            "type": "luis",
+            "name": "pokeBot",
+            "appId": "16358163-30a6-45e3-add8-a60ec2c65543",
+            "version": "0.1",
+            "subscriptionKey": "40098fb97d994b6f9dc49b59b6229996",
+            "authoringKey": "40098fb97d994b6f9dc49b59b6229996",
+            "region": "westus",
+            "id": "300"
+        },
+        {
+            "type": "qna",
+            "name": "PokeBotQna",
+            "kbId": "d7a52bcc-0b9f-40ba-9c62-b28351b1e370",
+            "subscriptionKey": "253453e21682486bad7f657561003d1e",
+            "endpointKey": "7cabd628-1a52-48b0-b69a-f31716f9f9ef",
+            "hostname": "https://pokbotqnaservice.azurewebsites.net/qnamaker",
+            "id": "75"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0"
+}

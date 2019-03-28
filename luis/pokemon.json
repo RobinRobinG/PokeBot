@@ -1,0 +1,147 @@
+{
+  "intents": [
+    {
+      "name": "Pokemon"
+    },
+    {
+      "name": "Abilities"
+    },
+    {
+      "name": "BaseStats"
+    },
+    {
+      "name": "Types"
+    }
+  ],
+  "entities": [
+    {
+      "name": "subject",
+      "roles": []
+    }
+  ],
+  "composites": [],
+  "closedLists": [],
+  "regex_entities": [],
+  "model_features": [],
+  "regex_features": [],
+  "utterances": [
+    {
+      "text": "what is sylveon",
+      "intent": "Pokemon",
+      "entities": [
+        {
+          "entity": "subject",
+          "startPos": 8,
+          "endPos": 14
+        }
+      ]
+    },
+    {
+      "text": "what abilities does sylveon have",
+      "intent": "Abilities",
+      "entities": [
+        {
+          "entity": "subject",
+          "startPos": 20,
+          "endPos": 26
+        }
+      ]
+    },
+    {
+      "text": "what hidden ability does sylveon have",
+      "intent": "Abilities",
+      "entities": [
+        {
+          "entity": "subject",
+          "startPos": 25,
+          "endPos": 31
+        }
+      ]
+    },
+    {
+      "text": "what is the HP of mewtwo",
+      "intent": "BaseStats",
+      "entities": [
+        {
+          "entity": "subject",
+          "startPos": 18,
+          "endPos": 23
+        }
+      ]
+    },
+    {
+      "text": "what is the attack of mewtwo",
+      "intent": "BaseStats",
+      "entities": [
+        {
+          "entity": "subject",
+          "startPos": 22,
+          "endPos": 27
+        }
+      ]
+    },
+    {
+      "text": "what is the defense of mewtwo",
+      "intent": "BaseStats",
+      "entities": [
+        {
+          "entity": "subject",
+          "startPos": 23,
+          "endPos": 28
+        }
+      ]
+    },
+    {
+      "text": "what is the speed of mewtwo",
+      "intent": "BaseStats",
+      "entities": [
+        {
+          "entity": "subject",
+          "startPos": 21,
+          "endPos": 26
+        }
+      ]
+    },
+    {
+      "text": "what is the special attack of mewtwo",
+      "intent": "BaseStats",
+      "entities": [
+        {
+          "entity": "subject",
+          "startPos": 30,
+          "endPos": 35
+        }
+      ]
+    },
+    {
+      "text": "what is the special defense of mewtwo",
+      "intent": "BaseStats",
+      "entities": [
+        {
+          "entity": "subject",
+          "startPos": 31,
+          "endPos": 36
+        }
+      ]
+    },
+    {
+      "text": "what type is bulbasaur",
+      "intent": "Types",
+      "entities": [
+        {
+          "entity": "subject",
+          "startPos": 13,
+          "endPos": 21
+        }
+      ]
+    }
+  ],
+  "patterns": [],
+  "patternAnyEntities": [],
+  "prebuiltEntities": [],
+  "luis_schema_version": "3.0.0",
+  "versionId": "0.1",
+  "name": "pokemon",
+  "desc": "",
+  "culture": "en-us"
+}

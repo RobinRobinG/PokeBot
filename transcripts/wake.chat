@@ -1,0 +1,15 @@
+user=Robin
+bot=PokeBot
+
+user: hello
+bot: Hello! What would you like me to call you?
+
+user: Robin
+bot: Hello, Robin. Here are some examples I can help you with:
+* How many Pokemon are there?
+* What type is Bulbasaur?
+* What moves can Sylveon learn?
+* Which Pokemon are ghost type?
+* What is Mewtwo's HP stat?
+
+bot: Just type in whatever you need! If you get stuck, just type "help" and I'll do what I can.

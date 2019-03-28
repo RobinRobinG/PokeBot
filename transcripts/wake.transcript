@@ -1,0 +1,119 @@
+[
+  {
+    "conversation": {
+      "id": "KzB771MBkHn4fjIxve66/+Aa+L0="
+    },
+    "id": "1",
+    "timestamp": "2019-03-26T20:24:32.100Z",
+    "type": "conversationUpdate",
+    "channelId": "chatdown",
+    "membersAdded": [
+      {
+        "id": "1YCmIoOuPX9lCEMFw43OGZSOPx4=",
+        "name": "PokeBot",
+        "role": "bot"
+      }
+    ],
+    "membersRemoved": []
+  },
+  {
+    "conversation": {
+      "id": "KzB771MBkHn4fjIxve66/+Aa+L0="
+    },
+    "id": "2",
+    "recipient": {
+      "id": "1YCmIoOuPX9lCEMFw43OGZSOPx4=",
+      "name": "PokeBot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "ihJzYj3N/xvCSK2LmNLIQrb7jiQ=",
+      "name": "Robin",
+      "role": "user"
+    },
+    "text": "hello",
+    "timestamp": "2019-03-26T20:24:34.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "KzB771MBkHn4fjIxve66/+Aa+L0="
+    },
+    "id": "3",
+    "recipient": {
+      "id": "ihJzYj3N/xvCSK2LmNLIQrb7jiQ=",
+      "name": "Robin",
+      "role": "user"
+    },
+    "from": {
+      "id": "1YCmIoOuPX9lCEMFw43OGZSOPx4=",
+      "name": "PokeBot",
+      "role": "bot"
+    },
+    "text": "Hello! What would you like me to call you?",
+    "timestamp": "2019-03-26T20:24:36.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "KzB771MBkHn4fjIxve66/+Aa+L0="
+    },
+    "id": "4",
+    "recipient": {
+      "id": "1YCmIoOuPX9lCEMFw43OGZSOPx4=",
+      "name": "PokeBot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "ihJzYj3N/xvCSK2LmNLIQrb7jiQ=",
+      "name": "Robin",
+      "role": "user"
+    },
+    "text": "Robin",
+    "timestamp": "2019-03-26T20:24:38.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "KzB771MBkHn4fjIxve66/+Aa+L0="
+    },
+    "id": "5",
+    "recipient": {
+      "id": "ihJzYj3N/xvCSK2LmNLIQrb7jiQ=",
+      "name": "Robin",
+      "role": "user"
+    },
+    "from": {
+      "id": "1YCmIoOuPX9lCEMFw43OGZSOPx4=",
+      "name": "PokeBot",
+      "role": "bot"
+    },
+    "text": "Hello, Robin. Here are some examples I can help you with:\n* How many Pokemon are there?\n* What type is Bulbasaur?\n* What moves can Sylveon learn?\n* Which Pokemon are ghost type?\n* What is Mewtwo's HP stat?",
+    "timestamp": "2019-03-26T20:24:40.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "KzB771MBkHn4fjIxve66/+Aa+L0="
+    },
+    "id": "6",
+    "recipient": {
+      "id": "ihJzYj3N/xvCSK2LmNLIQrb7jiQ=",
+      "name": "Robin",
+      "role": "user"
+    },
+    "from": {
+      "id": "1YCmIoOuPX9lCEMFw43OGZSOPx4=",
+      "name": "PokeBot",
+      "role": "bot"
+    },
+    "text": "Just type in whatever you need! If you get stuck, just type \"help\" and I'll do what I can.",
+    "timestamp": "2019-03-26T20:24:42.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  }
+]
